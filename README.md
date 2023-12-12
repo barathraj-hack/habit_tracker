@@ -1,6 +1,11 @@
 # habit_tracker
+Outputs:
 
-A new Flutter project.
+![Screenshot 2023-12-12 115336](https://github.com/barathraj-hack/habit_tracker/assets/65716917/4b4cfb76-2dbe-4d79-9ba8-3691c354a74c)
+
+![Screenshot 2023-12-12 115402](https://github.com/barathraj-hack/habit_tracker/assets/65716917/ef10be48-18e7-4bd9-9ec7-fa951b2906bb)
+
+![Screenshot 2023-12-12 115325](https://github.com/barathraj-hack/habit_tracker/assets/65716917/e44ce6f3-bb9f-4b46-8181-823d6fb149c0)
 
 ## Getting Started
 
